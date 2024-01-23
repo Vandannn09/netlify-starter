@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.akariaryaca.xiegawodnika",
+               "sha256_cert_fingerprints": ["E1:FD:08:6B:57:42:7F:7C:30:71:6A:94:A2:E8:F5:9E:61:FB:4C:A2:8E:CC:75:E3:B7:82:26:D1:F5:B2:E8:99"] }
+}]
